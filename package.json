@@ -46,9 +46,13 @@
     "webpack-cli": "^4.7.0"
   },
   "dependencies": {
+    "@tensorflow-models/face-landmarks-detection": "0.0.3",
+    "@tensorflow-models/facemesh": "0.0.5",
+    "@tensorflow/tfjs": "^3.6.0",
     "electron-squirrel-startup": "^1.0.0",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "react-webcam": "^5.2.4"
   },
   "config": {
     "forge": {
